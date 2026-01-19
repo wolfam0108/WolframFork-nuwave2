@@ -2,3 +2,15 @@
 *.DS*
 *__pycache__*
 *.pyc
+
+# Output files
+*.wav
+*.pkf
+test_sample/
+
+# Checkpoints (download separately)
+*.ckpt
+
+# Logs
+*.log
+tensorboard/
